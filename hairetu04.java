@@ -13,5 +13,6 @@ public class hairetu04{
         for (int i = 0; i < num; i++){
             System.out.println( i + "回目" + array[i]);
         }
+        
     }
 }

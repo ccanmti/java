@@ -9,6 +9,7 @@ public class hairetu05{
             sum += x[i];
         }
         System.out.println("平均点は"+ (sum/x.length));
+
         
     }
 }
